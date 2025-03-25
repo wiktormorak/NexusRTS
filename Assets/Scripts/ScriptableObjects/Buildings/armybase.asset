@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a282464f61b38326d81439a02a6e9a97, type: 3}
+  m_Name: armybase
+  m_EditorClassIdentifier: 
+  progressBarPrefabX: 0
+  progressBarPrefabY: 0
+  progressBarPrefabZ: 0
+  progressBarPrefabScale: 0.225
+  buildingExtraText: 
+  configPrefab: {fileID: 6884956968517693263, guid: 851d5e4091d4319cfa2aa857d85102e8, type: 3}
+  configPrefabX: 0
+  configPrefabY: 4.15
+  configPrefabZ: 1.3
+  configPrefabScale: 1.45
+  prefab: {fileID: 0}
+  prefabList:
+  - {fileID: 440859028714500349, guid: 24483e92c7dcdf10094ad2ea991639f2, type: 3}
+  - {fileID: 5389560838444955202, guid: 6eda231a9e36060a49052f31119b12d4, type: 3}
+  - {fileID: 2215514914120771738, guid: 6459c11c1f1e94eb0b52bdd63e4d8c41, type: 3}
+  - {fileID: 2449248367319792648, guid: 8aaac3129a06a8a57848f1c048ae7b45, type: 3}
+  upgradePrefabList: []
+  usePrefabLists: 1
+  prefabOffset: {x: 0, y: 0, z: 0.25}
+  prefabScale: {x: 0.0035, y: 0.0035, z: 0.0035}
+  prefabRotation: {x: -60, y: 270, z: -90}
+  requiresSecondButton: 0
+  requiresSecondButtonUse: 0
+  requiresExtraDetail: 0
+  buildingExtrasList: []
+  buildingDescription: An army base lets you recruit, train and deploy your troops
+    into combat. Highly upgradeable.
+  BuildingClass: 0
+  buildingCost: 125
+  buildTime: 15
+  upgradeStage: 0
+  displayName: Army Base
+  idName: armybase
+  buildingID: 0
+  firstButtonUse: 0

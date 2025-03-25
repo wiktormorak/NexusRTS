@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a282464f61b38326d81439a02a6e9a97, type: 3}
+  m_Name: warehouse
+  m_EditorClassIdentifier: 
+  progressBarPrefabX: 0
+  progressBarPrefabY: 0
+  progressBarPrefabZ: 0
+  progressBarPrefabScale: 0.0225
+  configInfo: {fileID: 0}
+  prefab: {fileID: 0}
+  prefabList: []
+  upgradePrefabList: []
+  usePrefabLists: 0
+  prefabOffset: {x: 0, y: 0, z: 0}
+  prefabScale: {x: 0, y: 0, z: 0}
+  prefabRotation: {x: 0, y: 0, z: 0}
+  requiresSecondButton: 1
+  requiresSecondButtonUse: 2
+  requiresExtraDetail: 0
+  buildingExtrasList: []
+  buildingDescription: The warehouse allows for you to store ores to either sell
+    at a later time or use for large production of vehicles.
+  BuildingClass: 2
+  buildingCost: 750
+  buildTime: 60
+  upgradeStage: 0
+  displayName: Warehouse
+  idName: warehouse
+  buildingID: 0
+  firstButtonUse: 0

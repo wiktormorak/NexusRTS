@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a282464f61b38326d81439a02a6e9a97, type: 3}
+  m_Name: house
+  m_EditorClassIdentifier: 
+  progressBarPrefabX: 0
+  progressBarPrefabY: 0
+  progressBarPrefabZ: 0
+  progressBarPrefabScale: 0.225
+  buildingExtraText: 
+  configPrefab: {fileID: 6884956968517693263, guid: 851d5e4091d4319cfa2aa857d85102e8, type: 3}
+  configPrefabX: 0
+  configPrefabY: 4.15
+  configPrefabZ: 1.3
+  configPrefabScale: 1.45
+  prefab: {fileID: 0}
+  prefabList:
+  - {fileID: 2810932777465755087, guid: e9fade6ba97f6c556a25994f6a24ea8f, type: 3}
+  - {fileID: 8539832882538270596, guid: 26e3db885bdba32cb90990e7bbbbfb82, type: 3}
+  - {fileID: 9099037149699065390, guid: bff76f672df03d8a6ab95fa87fafb65c, type: 3}
+  - {fileID: 3790484183032892965, guid: b6e0182fadbef855987992f6d024b815, type: 3}
+  upgradePrefabList: []
+  usePrefabLists: 1
+  prefabOffset: {x: 0, y: 0.1, z: 0.1}
+  prefabScale: {x: 0.002, y: 0.002, z: 0.002}
+  prefabRotation: {x: 90, y: 0, z: 0}
+  requiresSecondButton: 0
+  requiresSecondButtonUse: 0
+  requiresExtraDetail: 0
+  buildingExtrasList: []
+  buildingDescription: A house contains upto 6 people, necessary for expanding your
+    base.
+  BuildingClass: 2
+  buildingCost: 250
+  buildTime: 10
+  upgradeStage: 0
+  displayName: House
+  idName: house
+  buildingID: 0
+  firstButtonUse: 1

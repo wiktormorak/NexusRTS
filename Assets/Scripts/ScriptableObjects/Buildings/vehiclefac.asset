@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a282464f61b38326d81439a02a6e9a97, type: 3}
+  m_Name: vehiclefac
+  m_EditorClassIdentifier: 
+  progressBarPrefabX: 0
+  progressBarPrefabY: 0
+  progressBarPrefabZ: 0
+  progressBarPrefabScale: 0.0225
+  buildingExtraText: 
+  configPrefab: {fileID: 6884956968517693263, guid: 851d5e4091d4319cfa2aa857d85102e8, type: 3}
+  configPrefabX: 0
+  configPrefabY: 0
+  configPrefabZ: 0
+  configPrefabScale: 0
+  prefab: {fileID: 7090285025385442893, guid: 0005467297384c1e580d77a1e82f4542, type: 3}
+  prefabList: []
+  upgradePrefabList: []
+  usePrefabLists: 0
+  prefabOffset: {x: 0, y: 0.1, z: 0}
+  prefabScale: {x: 0.004, y: 0.004, z: 0.004}
+  prefabRotation: {x: 220, y: 90, z: 90}
+  requiresSecondButton: 0
+  requiresSecondButtonUse: 0
+  requiresExtraDetail: 0
+  buildingExtrasList: []
+  buildingDescription: A vehicle factory lets you manufacture land-based vehicles
+    to defend your land. Highly researchable.
+  BuildingClass: 1
+  buildingCost: 1250
+  buildTime: 45
+  upgradeStage: 0
+  displayName: Vehicle Factory
+  idName: vehiclefac
+  buildingID: 0
+  firstButtonUse: 0

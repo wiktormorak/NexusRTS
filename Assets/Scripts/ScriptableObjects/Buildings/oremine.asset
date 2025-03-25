@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a282464f61b38326d81439a02a6e9a97, type: 3}
+  m_Name: oremine
+  m_EditorClassIdentifier: 
+  progressBarPrefabX: 0
+  progressBarPrefabY: 0
+  progressBarPrefabZ: 0
+  progressBarPrefabScale: 0.225
+  buildingExtraText: 
+  configPrefab: {fileID: 6884956968517693263, guid: 851d5e4091d4319cfa2aa857d85102e8, type: 3}
+  configPrefabX: 0
+  configPrefabY: 4.15
+  configPrefabZ: 1.3
+  configPrefabScale: 1.45
+  prefab: {fileID: 919132149155446097, guid: 81d41c28742893093a1ed8727aa6d198, type: 3}
+  prefabList: []
+  upgradePrefabList: []
+  usePrefabLists: 0
+  prefabOffset: {x: 0, y: 0.8, z: 0}
+  prefabScale: {x: 0.05, y: 0.05, z: 0.05}
+  prefabRotation: {x: 90, y: 180, z: 0}
+  requiresSecondButton: 1
+  requiresSecondButtonUse: 2
+  requiresExtraDetail: 0
+  buildingExtrasList:
+  - {fileID: 0}
+  buildingDescription: A simple mine that mines and stores selected ores.
+  BuildingClass: 1
+  buildingCost: 500
+  buildTime: 45
+  upgradeStage: 0
+  displayName: Ore Mine
+  idName: oremine
+  buildingID: 0
+  firstButtonUse: 0

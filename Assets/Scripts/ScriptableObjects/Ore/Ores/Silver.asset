@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 396898a29e30baf0eb7d6aed5fc6ea59, type: 3}
+  m_Name: Silver
+  m_EditorClassIdentifier: 
+  oreName: Silver
+  oreDescription: A rare metal, mostly used in jewlery.
+  oreRarity: 1
+  oreValue: 50
+  oreChance: 0
